@@ -1,0 +1,2 @@
+# slashos-repo
+slashOS repository
